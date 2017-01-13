@@ -1,5 +1,7 @@
 Libarry/
 Temp/
+*.csproj
+*.sln
 
 #################
 ## Eclipse
